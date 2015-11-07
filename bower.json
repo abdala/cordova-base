@@ -1,0 +1,16 @@
+{
+  "name": "FVGestao-Base",
+  "version": "0.1.0",
+  "authors": [
+    "Abdala Cerqueira <abdala.cerqueira@gmail.com>"
+  ],
+  "dependencies": {
+    "transparency": "^0.11.0",
+    "rlite": "^1.1.0",
+    "requirejs": "^2.1.20",
+    "fastclick": "~1.0.6",
+    "fetch": "~0.10.0",
+    "text": "~2.0.14",
+    "jquery": "~2.1.4"
+  }
+}
