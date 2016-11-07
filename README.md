@@ -12,5 +12,5 @@ Base files for Cordova/PhoneGap watchable applications
 
 ```bash
 npm install
-npm start
+npm serve
 ```
